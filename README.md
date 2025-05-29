@@ -7,7 +7,7 @@ This is a simple Gradio-based web interface for interacting with a GPT-2 `medium
 ## 🌐 Live Demo
 
 Try the model live on Hugging Face Spaces:  
- 👉 [Launch App](https://huggingface.co/spaces/khotveer1/gpt2-lora-ui)
+ 👉 [Launch App](https://huggingface.co/spaces/khotveer1/gpt2-shakespeare-ui)
 
 ---
 
